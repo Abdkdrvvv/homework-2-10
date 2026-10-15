@@ -1,0 +1,1 @@
+console.log("homework 5/10")
